@@ -34,6 +34,10 @@ export default function Skills() {
             >
               {skillsSection.title}{" "}
             </h1>
+            {/* <img alt="💻"
+            draggable={false}
+            src={"https://twemoji.maxcdn.com/2/72x72/1f4bb.png"}
+            style="height: 1em; width: 1em; margin: 0px 0.05em 0px 0.1em; vertical-align: -0.1em;"></img> */}
             <p
               className={
                 isDark

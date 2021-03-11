@@ -44,29 +44,30 @@ function Header() {
               <a href="#skills">Skills</a>
             </li>
           )}
+          {viewOpenSource && (
+            <li>
+              <a href="#projects">Projects</a>
+            </li>
+          )}
           {viewExperience && (
             <li>
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
-            </li>
-          )}
+          
           {viewAchievement && (
             <li>
-              <a href="#achievements">Achievements</a>
+              <a href="#education">Education</a>
             </li>
           )}
-          {viewBlog && (
-            <li>
-              <a href="#blogs">Blogs</a>
-            </li>
-          )}
-          {viewTalks && (
+          {/* {viewTalks && (
             <li>
               <a href="#talks">Talks</a>
+            </li>
+          )} */}
+          {viewBlog && (
+            <li>
+              <a href="https://www.crio.do/portfolio/shasan419/" target="_blank">CRIO Verified Profile</a>
             </li>
           )}
           <li>
