@@ -10,7 +10,7 @@ const illustration = {
 
 const greeting = {
   username: "Hasan Shaikh",
-  title: "Hi all, I'm Hasan ",
+  title: "Hi, I'm Hasan ",
   subTitle: emoji(
     "A passionate Full Stack Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / MongoDB and some other cool libraries and frameworks."
   ),
@@ -41,7 +41,7 @@ const skillsSection = {
 
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
+      "⚡ Develop highly interactive Front end / User Interfaces for web applications"
     ),emoji(
       "⚡ Creating application backend using Node and Express"
     )
@@ -231,7 +231,7 @@ const bigProjects = {
           url: "https://qkart-frontend-p.netlify.app/"
         },
         {
-          name: "View More",
+          name: "View Implementation",
           url: "https://www.crio.do/portfolio/shasan419/"
         },
         //  you can add extra buttons here.
@@ -247,7 +247,7 @@ const bigProjects = {
           url: "https://crio-news-feed.netlify.app/"
         },
         {
-          name: "View More",
+          name: "View Implementation",
           url: "https://www.crio.do/portfolio/shasan419/"
         },
         //  you can add extra buttons here.
@@ -263,7 +263,7 @@ const bigProjects = {
           url: "https://qtrip-dynamic.netlify.app/"
         },
         {
-          name: "View More",
+          name: "View Implementation",
           url: "https://www.crio.do/portfolio/shasan419/"
         },
         //  you can add extra buttons here.
@@ -279,7 +279,7 @@ const bigProjects = {
           url: "https://q-trip.netlify.app/"
         },
         {
-          name: "View More",
+          name: "View Implementation",
           url: "https://www.crio.do/portfolio/shasan419/"
         },
         //  you can add extra buttons here.
